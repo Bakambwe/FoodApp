@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/IT LOAN/AndroidStudioProjects/FoodDeliveryApp-master/app/src/main/res/drawable-v24/ic_keywhite.xml" value="0.1" />
+        <entry key="..\:/Users/IT LOAN/AndroidStudioProjects/FoodDeliveryApp-master/app/src/main/res/drawable-v24/ic_phone.xml" value="0.1" />
+        <entry key="..\:/Users/IT LOAN/AndroidStudioProjects/FoodDeliveryApp-master/app/src/main/res/drawable-v24/rect_shape.xml" value="0.1" />
+        <entry key="..\:/Users/IT LOAN/AndroidStudioProjects/FoodDeliveryApp-master/app/src/main/res/drawable-v24/rect_shape1.xml" value="0.1" />
+        <entry key="..\:/Users/IT LOAN/AndroidStudioProjects/FoodDeliveryApp-master/app/src/main/res/drawable-v24/shaperectangle.xml" value="0.1" />
+        <entry key="..\:/Users/IT LOAN/AndroidStudioProjects/FoodDeliveryApp-master/app/src/main/res/drawable/layout_bg.xml" value="0.1565" />
+        <entry key="..\:/Users/IT LOAN/AndroidStudioProjects/FoodDeliveryApp-master/app/src/main/res/layout/activity_details.xml" value="0.25" />
+        <entry key="..\:/Users/IT LOAN/AndroidStudioProjects/FoodDeliveryApp-master/app/src/main/res/layout/activity_login.xml" value="0.16" />
+        <entry key="..\:/Users/IT LOAN/AndroidStudioProjects/FoodDeliveryApp-master/app/src/main/res/layout/activity_main.xml" value="0.22" />
+        <entry key="..\:/Users/IT LOAN/AndroidStudioProjects/FoodDeliveryApp-master/app/src/main/res/layout/activity_register.xml" value="0.2" />
+        <entry key="..\:/Users/IT LOAN/AndroidStudioProjects/FoodDeliveryApp-master/app/src/main/res/layout/asia_food_row_item.xml" value="0.18802083333333333" />
+        <entry key="..\:/Users/IT LOAN/AndroidStudioProjects/FoodDeliveryApp-master/app/src/main/res/layout/popular_food_row_item.xml" value="0.18802083333333333" />
+        <entry key="..\:/Users/IT LOAN/AndroidStudioProjects/FoodDeliveryApp-master/app/src/main/res/menu/bottom_menu.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/IT LOAN/AndroidStudioProjects/FoodDeliveryApp/app/src/main/res/menu/bottom_menu.xml" value="0.2" />
+        <entry key="..\:/Users/IT LOAN/Downloads/FoodDeliveryApp-master/app/src/main/res/layout/activity_details.xml" value="0.13425925925925927" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
